@@ -1,0 +1,5 @@
+{
+  "name": "Smart Spend Categorizer",
+  "description": "An AI-powered agent that categorizes transactions from Excel files and credit card statement images into a clear financial summary.",
+  "requestFramePermissions": []
+}
